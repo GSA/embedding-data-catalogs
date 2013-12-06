@@ -1,4 +1,3 @@
-
 The code [an be found here](https://github.com/philipashlock/datacatalog.js/archive/fix-config-filename.zip).  
 
 Instructions:
