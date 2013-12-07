@@ -24,7 +24,6 @@ There's also a lightweight tool (datacatalog.js) to make the capability of catal
 * http://www.treasury.gov/resource-center/data-chart-center/digitalstrategy/Pages/dataset.aspx
 * http://www.justice.gov/data/inventory.php
 * http://datainventory.ed.gov/
-* 
 
 
 
