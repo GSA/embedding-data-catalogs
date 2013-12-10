@@ -23,6 +23,8 @@ In action [here](http://ssa.gov/data/), with code [here](https://github.com/gbin
 * http://www.usaid.gov/data
 * http://www.treasury.gov/resource-center/data-chart-center/digitalstrategy/Pages/dataset.aspx
 * http://www.justice.gov/data/inventory.php
+
+### Not readily shareable
 * http://datainventory.ed.gov/
 
 
