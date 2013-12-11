@@ -1,4 +1,4 @@
-The code [an be found here](https://github.com/philipashlock/datacatalog.js/archive/fix-config-filename.zip).  
+An example [is here](http://dropbox.ashlock.us/sandbox/datacatalog.js/) and the code [can be found here](https://github.com/philipashlock/datacatalog.js/archive/fix-config-filename.zip).  
 
 Instructions:
 
