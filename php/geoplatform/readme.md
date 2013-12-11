@@ -1,6 +1,7 @@
 Interim Notes
 -------
 
+[[Note Example here](http://www.geoplatform.gov/node/201/%26fq%3Dmetadata_type%3A%22geospatial%22%2BAND%2B)]
  
 Find attached CKAN integration module, module acts as an interface between drupal and ckan.  It is used on geoplatform.gov to query ckan metadata.
 There are three configuration options that come with this module (other options as facet names etc. are not configurable at this stage, but could be modified)
