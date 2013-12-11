@@ -1,6 +1,6 @@
-*[Example](http://ssa.gov/data/)*
+* *[Example](http://ssa.gov/data/)*
 
-*Instructions:*
+* *Instructions:*
 
 Here is the stripped down version of the page.  It just contains the table at the bottom.  The CSS and JS files need to be in separate folders one level below the index.html page.  The JSON file needs to be one level higher than the index.html. 
  
